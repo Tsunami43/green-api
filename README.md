@@ -24,7 +24,7 @@ GreenAPI Python Library — это асинхронная библиотека �
 Клонируйте проект с GitHub в ваш проект:
 
 ```bash
-pip install git+https://github.com/Tsunami43/green_api.git
+pip install git+https://github.com/Tsunami43/green-api.git
 ```
 
 ## Использование
